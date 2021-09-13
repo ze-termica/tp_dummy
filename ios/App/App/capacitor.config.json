@@ -1,0 +1,8 @@
+{
+  "appId": "app.lavan.segremaxx",
+  "appName": "segremaxx",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
